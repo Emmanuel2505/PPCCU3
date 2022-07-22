@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.11dffe80.css",
+    "main.js": "/static/js/main.55c4f41c.js",
+    "static/media/Landing.png": "/static/media/Landing.0981874a894743d16c2b.png",
+    "static/media/loading.gif": "/static/media/loading.3e931c09a0fd96d1f4c9.gif",
+    "static/media/error-404.png": "/static/media/error-404.916ee77b9fd949fc5ab4.png",
+    "static/media/emptyCart.png": "/static/media/emptyCart.10401d9127d337d82ce4.png",
+    "static/media/facebook.png": "/static/media/facebook.13863c99c209978a4569.png",
+    "static/media/instagram.png": "/static/media/instagram.1792ff30fb032c94685c.png",
+    "static/media/login.png": "/static/media/login.6263aef1a57d20f562c5.png",
+    "static/media/empty.png": "/static/media/empty.0e51e7f79a72eec8a1f3.png",
+    "static/media/eliminarX.png": "/static/media/eliminarX.172a3d13ac43b478d30f.png",
+    "static/media/eliminar.png": "/static/media/eliminar.4cf85250644be08b0e98.png",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "main.11dffe80.css.map": "/static/css/main.11dffe80.css.map",
+    "main.55c4f41c.js.map": "/static/js/main.55c4f41c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11dffe80.css",
+    "static/js/main.55c4f41c.js"
+  ]
+}

@@ -1,0 +1,4 @@
+node_modules
+npm install -g npm@8.15.0
+npm-debug.log
+.gitignore
