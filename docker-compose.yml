@@ -1,0 +1,13 @@
+version: "3.7"
+services:
+  front:
+    image: klamer/frontend_ppcc
+    restart: always
+    ports:
+      - 4000:3000
+
+  back:
+    image: klamer/backend_ppcc
+    restart: always
+    ports:
+      - 3001:3001
